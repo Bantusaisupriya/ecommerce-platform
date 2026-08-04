@@ -192,7 +192,7 @@ public class SecurityConfig {
         CorsConfiguration configuration = new CorsConfiguration();
 
         configuration.setAllowedOrigins(
-                List.of("https://your-netlify-app.netlify.app")
+                List.of("https://incomparable-puppy-e480f0.netlify.app")
         );
 
         configuration.setAllowedMethods(
